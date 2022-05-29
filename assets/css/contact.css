@@ -3357,6 +3357,7 @@ input, select, textarea {
 		top: 0;
 		width: 20em;
 		z-index: 10002;
+		background: #000;
 	}
 
 		#menu ul {
